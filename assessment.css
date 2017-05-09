@@ -1,0 +1,35 @@
+h1,h2,h3,h4,h5,h6 {
+  color:		#800000;
+  size: 1.5em;
+}
+th {
+  font-weight: bold;
+  color: green;
+  border: 1px red solid;
+}
+table {
+  text-align: center;
+}
+li {
+  list-style-type: square;
+
+}
+a:hover {
+    background-color: yellow;
+    text-decoration: none;
+}
+blockquote {
+  background-color: #0E1BCC;
+  color: #FFCD19
+}
+li img {
+  padding-top: 30px;
+   position: absolute;
+   opacity: .3;
+   height: 75px;
+   padding-left: 40px;
+}
+#checkbox-grid li{
+  list-style-type: none;
+
+}
